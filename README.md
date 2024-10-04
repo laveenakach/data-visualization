@@ -6,7 +6,7 @@ The **Data Visualization Dashboard** is a Laravel-based web application designed
 
 ![alt text](<Screenshot (302).png>)
 
-![alt text](image.png)
+![alt text](<Screenshot (303)-1.png>)
 
 ## Features
 
